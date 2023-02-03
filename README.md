@@ -15,6 +15,7 @@ For GIT,I have used frequent push,pull,commit and other frequently used commands
 2. UML
 
 For the second task, I have created 3 UML diagrams.
+
   a)The first is the Sequence diagram https://github.com/Ishitas400/ProjectASE/blob/main/hack1.PNG which represents the sequence of messages that are shared or exchanged between the objects represented in the diagram.
   
   b)For the second diagram I have shown a Use Case diagram https://github.com/Ishitas400/ProjectASE/blob/main/hack2.PNG which graphically represents a user's possible interractions with a system.
