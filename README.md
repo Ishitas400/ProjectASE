@@ -25,5 +25,6 @@ For the second task, I have created 3 UML diagrams.
   
   3.DDD
   
-  For the DDD, I decided to go for another domain since my domain was too small to be represented and broken into sub-domains. I chose the banking system as it seemed very intersting to me to learn as well as document the relationship between the numerous sub domains involved in the same.
+  For the DDD, I decided to go for another domain since my domain was too small to be represented and broken into sub-domains. I chose the banking system as it seemed very intersting to me to learn as well as document the relationship between the numerous sub domains involved in the same. Firstly, I drew a diagram which depicts the different sub domains of the banking domain- https://github.com/Ishitas400/ProjectASE/blob/main/ase1.PNG
+  Secondly, I have drawn the DDD using bounded context where different relationships are between the subdomains.
   
