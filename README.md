@@ -21,3 +21,9 @@ For the second task, I have created 3 UML diagrams.
   b)For the second diagram I have shown a Use Case diagram https://github.com/Ishitas400/ProjectASE/blob/main/hack2.PNG which graphically represents a user's possible interractions with a system.
   
   c) Finally, for the third case, I have chosen the Activity diagram https://github.com/Ishitas400/ProjectASE/blob/main/hack3.PNG which represents the behavior of the components in a system.It gives us an overview of how the workflows.
+  
+  
+  3.DDD
+  
+  For the DDD, I decided to go for another domain since my domain was too small to be represented and broken into sub-domains. I chose the banking system as it seemed very intersting to me to learn as well as document the relationship between the numerous sub domains involved in the same.
+  
