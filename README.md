@@ -32,7 +32,9 @@ For the second task, I have created 3 UML diagrams.
   
     For Metrics, I have chosen 2 of them. One of them is called BANDIT and it is the one which is used to check the security of the code that we have written.It is a tool which is commomly used to find the security issues in a code. To do this,BANDIT processes each file,builds an AST from itand runs appropriate plugins against the AST nodes.Once BANDIT finishes scanning all the files,it generates a report.
     
-    [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+  5. CLEAN CODE DEVELOPMENT
+  
+  For CCD, I have made a Python cheat sheet which includes a few tips that I like to follow while writing Python codes for clean codes https://github.com/Ishitas400/ProjectASE/blob/main/Python%20cheat%20sheet.pdf . 
     
   
   
