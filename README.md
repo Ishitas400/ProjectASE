@@ -30,7 +30,7 @@ For the second task, I have created 3 UML diagrams.
   
   4. METRICS
   
-    For Metrics, I have chosen 2 of them. One of them is called BANDIT and it is the one which is used to check the security of the code that we have written.It is a tool which is commomly used to find the security issues in a code. To do this,BANDIT processes each file,builds an AST from itand runs appropriate plugins against the AST nodes.Once BANDIT finishes scanning all the files,it generates a report.
+    
     
   5. CLEAN CODE DEVELOPMENT
   
