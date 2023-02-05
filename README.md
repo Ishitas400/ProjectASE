@@ -27,3 +27,12 @@ For the second task, I have created 3 UML diagrams.
   
   For the DDD, I decided to go for another domain since my domain was too small to be represented and broken into sub-domains. I chose the banking system as it seemed very intersting to me to learn as well as document the relationship between the numerous sub domains involved in the same. I have drawn a diagram which depicts the different sub domains of the banking domain and the relationships between them- https://github.com/Ishitas400/ProjectASE/blob/main/DDD.PNG .
   
+  
+  4. METRICS
+  
+    For Metrics, I have chosen 2 of them. One of them is called BANDIT and it is the one which is used to check the security of the code that we have written.It is a tool which is commomly used to find the security issues in a code. To do this,BANDIT processes each file,builds an AST from itand runs appropriate plugins against the AST nodes.Once BANDIT finishes scanning all the files,it generates a report.
+    
+    [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+    
+  
+  
