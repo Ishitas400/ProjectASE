@@ -32,7 +32,7 @@ For the second task, I have created 3 UML diagrams.
     
 5. CLEAN CODE DEVELOPMENT
   
-  For CCD, I have made a Python cheat sheet which includes a few tips that I like to follow while writing Python codes for clean codes https://github.com/Ishitas400/ProjectASE/blob/main/Python%20cheat%20sheet.pdf . 
+  For CCD, I have made a Python cheat sheet which includes a few tips that I like to follow while writing Python codes for clean codes https://github.com/Ishitas400/ProjectASE/blob/main/Python%20Cheatsheet.pdf .
     
   
   
