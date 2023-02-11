@@ -28,7 +28,8 @@ For the second task, I have created 3 UML diagrams.
   For the DDD, I decided to go for another domain since my domain was too small to be represented and broken into sub-domains. I chose the banking system as it seemed very intersting to me to learn as well as document the relationship between the numerous sub domains involved in the same. I have drawn a diagram which depicts the different sub domains of the banking domain and the relationships between them- https://github.com/Ishitas400/ProjectASE/blob/main/DDD.PNG .
   
 4. METRICS
-  
+   For the Metrics, I have chose Pylint which is a very well known metrics and Bandit. 
+   Pylint checks code in the static mode,which means that it analyses code without actually running it.
     
 5. CLEAN CODE DEVELOPMENT
   
