@@ -76,6 +76,16 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
  For DSL(Domain Specific Language), I have chosen SQL which is the Structured Query Language which is mostly used to communicate with a database. For our task, I have refactored my code from another subject taught by our university(pdds). The data set was provided by the professor- https://github.com/Ishitas400/ProjectASE/blob/main/zuwendungen-berlin.csv.gz . The code was written in Jupyter Notebook so that along with the SQL language I  could also use a few python commands so that the main idea of this project being a python project is not diverted from. The notebook can be found as foolows - 
 https://github.com/Ishitas400/ProjectASE/blob/main/ASE.ipynb .
 
+11.FUNCTIONAL PROGRAMMING
+
+For functional programming, I have attached the relevant code snippets here-
+a)Final data structure-I have used finally in my code here https://github.com/Ishitas400/ProjectASE/blob/main/Functional.py . 
+The output is as https://github.com/Ishitas400/ProjectASE/blob/main/finally.PNG ,
+
+b)
+
+
+
  
  
  
