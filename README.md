@@ -1,7 +1,7 @@
 # ProjectASE
 Advanced Software Engineering 
 
-ETHICAL HACKING
+A) ETHICAL HACKING
 
 To protect ourselves from unethical hackers, employment of ethical hackers has become very important nowadays. Python uses inbuilt libraries and modules which makes our job much easier to code using python.In this exercise, I have focussed on how common passwords can be converted to hashed digested words using md5 and SH1 methods. The python code for the same can be found here - https://github.com/Ishitas400/ProjectASE/blob/main/EthicalHack.py .
 This code would also need a website where we can directly convert our passwords into md5 and SH1 hashed versions without any problem - https://www.md5hashgenerator.com .
@@ -9,7 +9,7 @@ Also, I have used my set of passwords for testing and debugging the program whic
 
 
 
-EXERCISES FOR ADVANCED SOFTWARE ENGINEERING COURSE
+B)EXERCISES FOR ADVANCED SOFTWARE ENGINEERING COURSE
 
 
  1.GIT
