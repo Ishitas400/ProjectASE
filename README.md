@@ -5,7 +5,7 @@ A) ETHICAL HACKING
 
 To protect ourselves from unethical hackers, employment of ethical hackers has become very important nowadays. Python uses inbuilt libraries and modules which makes our job much easier to code using python.In this exercise, I have focussed on how common passwords can be converted to hashed digested words using md5 and SH1 methods. The python code for the same can be found here - https://github.com/Ishitas400/ProjectASE/blob/main/EthicalHack.py .
 This code would also need a website where we can directly convert our passwords into md5 and SH1 hashed versions without any problem - https://www.md5hashgenerator.com .
-Also, I have used my set of passwords for testing and debugging the program which can be found here - https://github.com/Ishitas400/ProjectASE/blob/main/password.txt . (This list is completely customizable)
+Also, I have used my set of passwords for testing and debugging the program which can be found here - https://github.com/Ishitas400/ProjectASE/blob/main/password.txt . (This list is completely customizable) The output of the code is as follows - https://github.com/Ishitas400/ProjectASE/blob/main/output1.PNG  and https://github.com/Ishitas400/ProjectASE/blob/main/output2.PNG .
 
 
 
