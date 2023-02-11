@@ -36,6 +36,12 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
 5. CLEAN CODE DEVELOPMENT
   
   For CCD, I have made a Python cheat sheet which includes a few tips that I like to follow while writing Python codes for clean codes https://github.com/Ishitas400/ProjectASE/blob/main/Python%20Cheatsheet.pdf .
-    The source code can be used here for reference. https://github.com/Ishitas400/ProjectASE/blob/main/EthicalHack.py#L1-L30
+    The source code can be used here for reference. https://github.com/Ishitas400/ProjectASE/blob/main/EthicalHack.py#L1-L30 .
+  Here I have marked the 5 clean code snippets.
+  For clean code 1: I have imported hashlib which is a module which implements many secure md5 and SH1 message encrption calculations and makes performing operations easier instead of writing huge chunks of codes.
+  For clean code 2: Instead of writing a huge line of code I have broken it into 3 different lines so that it is more readable and compact.
+  For clean code 3: Instead of using 'xyz' or some random variables, I have used a variable called password_found which is quite self explanatory and avoiuds unnecessary confusion.
+  For clean code 4: For input as a string,I have used double quotes instead of single quote in order to avoid confusion with apostrophe.
+  For clean code 5: I have use try and except so that even if the file is not found in the mentioned directory,it should not throw an error and abend the program. Instead, the program runs with code 0 successfully even if the file path is given incorrectly.
   
   
