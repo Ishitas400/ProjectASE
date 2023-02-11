@@ -51,8 +51,6 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
   
 6.BUILD MANAGEMENT
   
-  
-
 7. UNIT TESTS
 
 
@@ -71,6 +69,13 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
  F2 for Navigating to the next highlighted error in the active editor.
  ctrl+C and ctrl+V for copying and pasting to and from the clipboard.
  shift+Tab for unindent selection.
+ 
+ 
+10.DSL
+  
+ For DSL(Domain Specific Language), I have chosen SQL which is the Structured Query Language which is mostly used to communicate with a database. For our task, I have refactored my code from another subject taught by the same university. The data set was provided by the professor- https://github.com/Ishitas400/ProjectASE/blob/main/zuwendungen-berlin.csv.gz . The code was written in Jupyter Notebook so that along with the SQL language I wanted to also use a few python commands so that the main idea of this project being a python project is not diverted from. The notebook can be found as foolows - 
+https://github.com/Ishitas400/ProjectASE/blob/main/ASE.ipynb .
+
  
  
  
