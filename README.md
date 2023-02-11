@@ -79,7 +79,7 @@ https://github.com/Ishitas400/ProjectASE/blob/main/ASE.ipynb .
 11.FUNCTIONAL PROGRAMMING
 
 For functional programming, I have attached the relevant code snippets here-
-a)Final data structure-I have used finally in my code here https://github.com/Ishitas400/ProjectASE/blob/main/Functional.py . 
+a)Final data structure-I have used finally in my code here https://github.com/Ishitas400/ProjectASE/blob/main/Functional.py#L28 . 
 The output is as https://github.com/Ishitas400/ProjectASE/blob/main/finally.PNG ,
 
 b)
