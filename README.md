@@ -49,8 +49,9 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
   For clean code 4: For input as a string,I have used double quotes instead of single quote in order to avoid confusion with apostrophe.
   For clean code 5: I have use try and except so that even if the file is not found in the mentioned directory,it should not throw an error and abend the program. Instead, the program runs with code 0 successfully even if the file path is given incorrectly.
   
+6.BUILD MANAGEMENT
   
-6. BUILD MANAGEMENT
+  
 
 7. UNIT TESTS
 
