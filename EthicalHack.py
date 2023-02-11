@@ -1,6 +1,7 @@
-import hashlib
+#Clean code 1
+import hashlib  
 import inspect
-
+#Clean code 2
 inspect.getfullargspec(hashlib.new)
 inspect.FullArgSpec(args=['name', 'data'], varargs=None, varkw='kwargs', defaults=(b'',),
                     kwonlyargs=['usedforsecurity'], kwonlydefaults={'usedforsecurity': False}, annotations={})
@@ -9,13 +10,15 @@ print("**************Ethical Hacking ******************")
 
 # Here we check if the password
 # was found or not
-Password_found = 0
+Password_found = 0  #Clean code 3
 
-Input_hash = input("Enter the password in the hashed form :")
+Input_hash = input("Enter the password in the hashed form :") #Clean code 4
 
 Password_doc = input("\nEnter passwords filename including path(root / home/):")
 
-try:
+#Clean code 5
+
+try:        
     # We try to open the password from
     # the given path where we have stored
     # the password.txt file with the list of passwords
