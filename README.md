@@ -50,3 +50,31 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
   For clean code 5: I have use try and except so that even if the file is not found in the mentioned directory,it should not throw an error and abend the program. Instead, the program runs with code 0 successfully even if the file path is given incorrectly.
   
   
+6. BUILD MANAGEMENT
+
+7. UNIT TESTS
+
+
+8.CONTINUOUS DELIVERY
+
+
+9.IDE
+
+ For the IDE, I have chosen Pycharm. Previously I used to use Jupyter Notebook religiously for Data Science and Machine Learning codes. This was the first time that  I used Pycharm for an entire project. I can say that I thoroughly enjoyed using it and would definitely use it more often in the future. It is a great IDE as it allows us to view the source code very easily. Also it is similar to the Eclipse IDE used for JAVA programming and allows us to easily debug and gfind errors in our code because of the yellow and red balloon icons which alos provide us with probable one click solutions. The shortcuts that I liked in Pycharm are as follows-
+ 
+ shift+F10 for running a code.
+ shift+F9 for debugging a code.
+ F9 for resuming program execution.
+ alt+HOME to jump to the Navigation Bar.
+ alt+ctrl+L for reformating code.
+ F2 for Navigating to the next highlighted error in the active editor.
+ ctrl+C and ctrl+V for copying and pasting to and from the clipboard.
+ shift+Tab for unindent selection.
+ 
+ 
+ 
+
+
+  
+  
+  
