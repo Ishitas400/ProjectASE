@@ -67,7 +67,7 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
  alt+HOME to jump to the Navigation Bar.
  alt+ctrl+L for reformating code.
  F2 for Navigating to the next highlighted error in the active editor.
- ctrl+C and ctrl+V for copying and pasting to and from the clipboard.
+ ctrl+C and ctrl+V for copying and pasting to and from the clipboard and 
  shift+Tab for unindent selection.
  
  
