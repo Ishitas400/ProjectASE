@@ -33,10 +33,11 @@ For the second task, I have created 3 UML diagrams.
   
  4.METRICS
   
-  For the Metrics, I have chose Pylint which is a very well known metrics and Bandit. 
-Pylint checks code in the static mode,which means that it analyses code without actually running it. Although I did not get a very good result using it, it was probably because I used many elif and if statements in order to fit 2 codes of a similar nature together. Here I have attached the snapshot of the same. https://github.com/Ishitas400/ProjectASE/blob/main/pylint.PNG
+  For the Metrics, I have chosen Radon which is a very well known metrics and Bandit.
+  
+  For the first metrics, I have scanned the code with radon metrics which is calculates the complexity and maintainebility of a code.I have gotten a very good grade  of A(86.10). We know anything above the score of 75 is considered to be a code which is very easy to maintain - https://github.com/Ishitas400/ProjectASE/blob/main/radon.PNG  and https://github.com/Ishitas400/ProjectASE/blob/main/radon%20mi.jpg .
    
-For the second metrics, I have chosen Bandit which checks for the security of a code. Here bandit has shown a high level severity of 2 which is common in codes involving hashing algorithms like md5 and SH1. https://github.com/Ishitas400/ProjectASE/blob/main/bandit.jpg  is the link to the output.
+ For the second metrics, I have chosen Bandit which checks for the security of a code. Here bandit has shown a high level severity of 2 which is common in codes     involving hashing algorithms like md5 and SH1. https://github.com/Ishitas400/ProjectASE/blob/main/bandit.jpg  is the link to the output.
     
 5. CLEAN CODE DEVELOPMENT
   
