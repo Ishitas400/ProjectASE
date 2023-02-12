@@ -62,6 +62,8 @@ saying that the password was not found. Also, the user needs to enter the file p
 
 8.CONTINUOUS DELIVERY
 
+For continuous delivery, I have chosen GitHub Action. It was suggested to me under Actions in continuous integration in GitHub. The three .yml files can be found here- https://github.com/Ishitas400/ProjectASE/tree/main/.github/workflows.
+
 
 9.IDE
 
