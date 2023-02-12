@@ -82,7 +82,16 @@ For functional programming, I have attached the relevant code snippets here-
 a)Final data structure-I have used finally in my code here https://github.com/Ishitas400/ProjectASE/blob/main/Functional.py#L28 . 
 The output is as https://github.com/Ishitas400/ProjectASE/blob/main/finally.PNG ,
 
-b)
+b)For side effect free functions and the rest of the the functional programming requirements,I have made a small python code which depicts 
+different aspects of functional programming- https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#L1-L11 .
+
+c)For the use of higher order functions,I have used "sorted" which sorts a list from ascending to descending - https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#L13-L15
+
+d)For functions as parameters and return values, we defined 3 functions as herbivorous,carnivorous and omnivorous and passed the functions 
+as arguments - https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#L18-L35 .
+
+e)For closures in python,I have defined variables outside the inner function and have nested the anonymous function 
+and then called both the inner and outer functions- https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#L38-L52 .
 
 
 
