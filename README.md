@@ -55,7 +55,7 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
   
 7. UNIT TESTS
 
-  For unit tests, I have tested if the passwords entered from the password.txt file are in upper or lower case. Since, this is a password related project, the strings should be exactly similar to the ones used in the password.txt file. Else, the hash generated would be different and the code will not return the correct password- https://github.com/Ishitas400/ProjectASE/blob/main/hack_tests.py. Other than that, my code is a user input code wherein if the user enters a password other than the ones mentioned in https://github.com/Ishitas400/ProjectASE/blob/main/password.txt file, it would lead to the exit of the program with a message 
+  For unit tests, I have tested if the passwords entered from the password.txt file are in upper or lower case. Since, this is a password related project, the strings should be exactly similar to the ones used in the password.txt file. Else, the hash generated would be different and the code will not return the correct password- https://github.com/Ishitas400/ProjectASE/blob/main/hack_tests.py. Other than that, my code is in itself a test driven code since a user input code wherein if the user enters a password other than the ones mentioned in https://github.com/Ishitas400/ProjectASE/blob/main/password.txt file, it would lead to the exit of the program with a message 
 saying that the password was not found. Also, the user needs to enter the file path correctly too,else it would also not return the password to the user.  
 
 
