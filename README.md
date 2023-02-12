@@ -50,6 +50,8 @@ For the second metrics, I have chosen Bandit which checks for the security of a 
   For clean code 5: I have use try and except so that even if the file is not found in the mentioned directory,it should not throw an error and abend the program. Instead, the program runs with code 0 successfully even if the file path is given incorrectly.
   
 6.BUILD MANAGEMENT
+
+  For Build Management, I have chosen Pybuilder as a built management tool. Previously, I have used Maven in Eclipse for Java project build. the build file can be found here- https://github.com/Ishitas400/ProjectASE/blob/main/build.py  and the setup file here- https://github.com/Ishitas400/ProjectASE/blob/main/setup.py . I have also added a snippet of my terminal to prove that the build ran successfully- https://github.com/Ishitas400/ProjectASE/blob/main/pybuild.PNG .
   
 7. UNIT TESTS
 
