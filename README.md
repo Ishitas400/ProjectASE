@@ -93,6 +93,8 @@ as arguments - https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#
 e)For closures in python,I have defined variables outside the inner function and have nested the anonymous function 
 and then called both the inner and outer functions- https://github.com/Ishitas400/ProjectASE/blob/main/SideEffect.py#L38-L52 .
 
+The output for (b);(c);(d) and (e) parts are found here - https://github.com/Ishitas400/ProjectASE/blob/main/op.PNG .
+
 
 
  
